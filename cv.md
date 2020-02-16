@@ -9,4 +9,4 @@ However i want something new. Also at my current job i have tasks requiring appl
 
 ***
 
-P.S. Actually my knowledge of english is so bad that this text was translated by my son. Just keep it a secret please.  
+P.S. Actually my knowledge of english is so bad that this text was translated by my son. Just keep it a secret please. 
