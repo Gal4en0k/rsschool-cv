@@ -1,0 +1,19 @@
+body {
+  width: 1000px;  
+  padding: 12 12px;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: "Georgia", serif;
+  color: #222222; 
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 32px;
+  line-height: normal;
+}
+
+.ps {
+  font-style: italic;
+}
